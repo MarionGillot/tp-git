@@ -60,7 +60,6 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - Valider le changement du commit
     - Finir "rebase".
 - Faire un "push" vers Github.
-modifications test
 
 # Branches
 
