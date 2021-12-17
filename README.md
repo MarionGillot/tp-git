@@ -52,7 +52,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 # Conflits
 
 - [x] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "édit depuis Github", comme message de commit.
-- [ ] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "édit local"
+- [x] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "édit local"
 - Demandez à VSCode de synchroniser.
   - Cela doit échouer.
   - Faire `Shift+CMD+P` Git: Pull (rebase)
@@ -60,6 +60,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - Valider le changement du commit
     - Finir "rebase".
 - Faire un "push" vers Github.
+modifications test
 
 # Branches
 
